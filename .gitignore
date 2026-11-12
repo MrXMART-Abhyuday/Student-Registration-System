@@ -1,0 +1,16 @@
+# Compiled class files
+/bin/
+/target/classes/
+/target/war-staging/
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+
+# Log files
+*.log
+
+# Operating system files
+Thumbs.db
+.DS_Store
